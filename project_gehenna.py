@@ -1,6 +1,8 @@
 import sys
 import time
+import os
 import numpy as np
+# sys.path.append(os.path.dirname(os.path.abspath("renderer")))
 import renderer.py as R
 
 
